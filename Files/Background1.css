@@ -1,0 +1,25 @@
+.head{ background-color: #f9d70b;
+}
+.div{background-color: #800000}
+body{
+background-color:white;
+}
+h4{color: white}
+h4{ display: inline;
+padding-left:20px;
+align:right;}
+h3{padding-left:30px;color: red}
+h1,h2{color: black}
+
+p.size{font-size: 20; padding-left:30px}
+p.center{align: center; padding: 40px}
+
+.image{ background-image:url("Document 13_2.jpg")
+}
+th{ padding: 8px;
+}
+td{ padding: 5px;}
+table {cellpadding:8px;
+}
+td.curriculum{ padding: 50px;
+}
